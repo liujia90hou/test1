@@ -1,2 +1,2 @@
 # test1
-print('hello world')
+printcmz,,zaxzkcskjhsbckcb cmxbckhn 
